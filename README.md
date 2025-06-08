@@ -38,8 +38,8 @@ In case you want to run the application locally, you will need the following too
 1. **Clone the Repository**
 
    ```sh
-   git clone UOA-CS732-SE750-Students-2024/project-group-whimsical-wallabies.git
-   cd project-group-whimsical-wallabies
+   git clone https://github.com/1uhis/PawMate.git
+   cd pawmate
    ```
 2. **Install the Dependencies**
 
